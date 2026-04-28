@@ -1,0 +1,47 @@
+año,mes,precio_guilders,volumen_transado,variedad,mercado,tipo_comprador,causa_movimiento,region,estado_economico,indice_precio
+1634,1,5,20,Semper Augustus,subasta,coleccionista,Ninguna,Amsterdam,incipiente,50
+1634,3,6,25,Semper Augustus,subasta,coleccionista,llegada_turquia,Amsterdam,incipiente,60
+1634,6,8,40,Semper Augustus,subasta,merchant,nouvelle_variete,Amsterdam,incipiente,80
+1634,9,10,60,Admiral,subasta,coleccionista,entusiasmo_corte,Amsterdam,incipiente,100
+1634,12,12,80,Semper Augustus,subasta,merchant,especulacion_inicial,Amsterdam,boom,120
+1635,2,20,150,General,forward,especulador,rumor_nueva_variedad,Amsterdam,boom,200
+1635,4,35,250,Semper Augustus,forward,especulador,especulacion_inicial,Amsterdam,boom,350
+1635,6,60,400,Semper Augustus,forward,especulador,apuesta_colectiva,Leiden,boom,600
+1635,8,100,600,Admiral,forward,especulador,fiebre_coleccion,Haarlem,boom,1000
+1635,10,150,800,Semper Augustus,forward,merchant,efecto_redes,Amsterdam,boom,1500
+1635,12,250,1000,Semper Augustus,forward,especulador,mania_mercado,Leiden,pico,2500
+1636,1,400,1200,General,forward,especulador,ultimo_momento,Amsterdam,pico,4000
+1636,2,600,1500,Semper Augustus,forward,especulador,apuesta_alta,Amsterdam,pico,6000
+1636,3,800,1800,Admiral,forward,granjero,envidia_social,Haarlem,pico,8000
+1636,4,1000,2000,Semper Augustus,forward,merchant,confianza_ciega,Amsterdam,pico,10000
+1636,5,1200,2200,General,forward,especulador,apuesta_limitada,Leiden,pico,12000
+1636,6,1500,2500,Semper Augustus,forward,especulador,efecto_manada,Amsterdam,pico,15000
+1636,7,1800,2800,Admiral,forward,especulador,avidez_ganancia,Haarlem,pico,18000
+1636,8,2000,3000,Semper Augustus,forward,especulador,oferta_ultima,Amsterdam,pico,20000
+1636,9,2200,2500,General,forward,especulador,restriccion_oferta,Leiden,pico,22000
+1636,10,2500,2000,Semper Augustus,forward,especulador,escasez_percibida,Amsterdam,pico,25000
+1636,11,2800,1500,Admiral,forward,especulador,tension_mercado,Haarlem,pico,28000
+1636,12,3200,1000,Semper Augustus,opcion,merchant,precio_max_historico,Amsterdam,pico,32000
+1637,1,3500,800,General,opcion,especulador,rechazo_vender,Leiden,pico,35000
+1637,2,4000,500,Semper Augustus,opcion,especulador,ultimo_reenganche,Amsterdam,pico_max,40000
+1637,2,3000,300,General,opcion,merchant,venta_prematuro,Haarlem,crash_inicio,30000
+1637,2,2000,200,Semper Augustus,forward,granjero,confusion_precios,Amsterdam,crash_inicio,20000
+1637,2,1000,150,Admiral,forward,especulador,aviso_perdida,Leiden,crash_inicio,10000
+1637,2,500,100,Semper Augustus,subasta,comerchant,primer_panico,Amsterdam,crash,5000
+1637,2,200,50,General,subasta,granjero,desesperacion,Haarlem,crash,2000
+1637,3,100,80,Semper Augustus,subasta,comerchant,rescate_parcial,Amsterdam,crash,1000
+1637,3,50,100,Admiral,subasta,merchant,compra_oportunista,Leiden,crash,500
+1637,4,30,150,Semper Augustus,subasta,comerchant,valor_real,Amsterdam,recovery,300
+1637,5,25,200,General,subasta,coleccionista,"valor intrínseco",Haarlem,recovery,250
+1637,6,20,250,Semper Augustus,subasta,merchant,estabilizacion,Leiden,recovery,200
+1637,7,15,300,Admiral,subasta,coleccionista,recuperacion_lenta,Amsterdam,recovery,150
+1637,8,12,350,Semper Augustus,subasta,merchant,mercado_lento,Haarlem,recovery,120
+1637,9,10,400,General,subasta,coleccionista,normalizacion,Leiden,recovery,100
+1637,10,8,450,Semper Augustus,subasta,merchant,demanda_estable,Amsterdam,recovery,80
+1637,11,7,500,Admiral,subasta,coleccionista,recuperacion_constante,Haarlem,recovery,70
+1637,12,6,550,Semper Augustus,subasta,merchant,nueva_exploracion,Leiden,recovery,60
+1638,1,5,600,Semper Augustus,subasta,coleccionista,valor_historico,Amsterdam,estabilizado,50
+1638,2,5,650,General,subasta,merchant,mercado_sano,Leiden,estabilizado,50
+1638,3,6,700,Semper Augustus,subasta,coleccionista,resurgimiento,Amsterdam,estabilizado,60
+1638,4,7,750,Admiral,subasta,merchant,recuperacion_gradual,Haarlem,estabilizado,70
+1638,6,8,800,Semper Augustus,subasta,coleccionista,"nueva_demanda",Leiden,estabilizado,80
